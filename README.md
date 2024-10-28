@@ -7,7 +7,7 @@ The implementation is seeded so that results shown in the paper "DP-DT: Data Pla
 
 First, clone the repo
 
-    git clone
+    git clone https://github.com/sgarciatz/delay-pred-model.git
 
 Then, create and start a virtual environment inside the directory:
 
