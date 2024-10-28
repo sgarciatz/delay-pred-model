@@ -14,6 +14,10 @@ Then, create and start a virtual environment inside the directory:
     python3 -m venv .venv
     source .venv/bin/activate
 
+Install dependencies:
+
+    pip install -r requirements.txt
+
 Finally execute the "monte_carlo_sampling.py" script.
 
     python monte_carlo_sampling.py
